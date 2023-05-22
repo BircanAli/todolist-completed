@@ -1,2 +1,2 @@
 the page already deployed 
-https://bircan-first-todolist.onrender.com
+https://bircan-first-todolist.onrender.com - just wait i while its slow...

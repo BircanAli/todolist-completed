@@ -12,4 +12,4 @@ HTML, CSS, JavaScript, EJS...
 
 ## Screenshots
 
-![To Do List](https://github.com/BircanAli/todolist-completed/assets/105841521/250ed446-73b7-4b29-991c-5d7c12ee405e)
+![To Do List](https://github.com/BircanAli/todolist-completed/assets/105841521/95408c1b-1c74-43e4-9df3-63493c7f2531)

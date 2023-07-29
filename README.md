@@ -12,7 +12,4 @@ HTML, CSS, JavaScript...
 
 ## Screenshots
 
-
-
-
-
+![To Do List](https://github.com/BircanAli/todolist-completed/assets/105841521/250ed446-73b7-4b29-991c-5d7c12ee405e)
